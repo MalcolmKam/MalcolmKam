@@ -8,7 +8,7 @@
   </a>
 </p>
 
-</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmKam&hide=contribs,prs" alt="MalcolmKam" /></p>
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmKam" alt="MalcolmKam" /></p>
 
 <!--
 **MalcolmKam/MalcolmKam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
