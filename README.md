@@ -10,7 +10,7 @@
 
 Connect with me on LinkedIn!
 <p align="left">
-<a href="https://linkedin.com/in/michael-o-brien-63153129a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mob61887" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malcolmkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mob61887" height="30" width="40" /></a>
 </p>
 
 <!--
