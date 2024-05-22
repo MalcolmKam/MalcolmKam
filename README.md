@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Malcolm.
+### Hi there 👋 I'm Malcolm. I'm a Full Stack Engineer who loves to tackle new challenges!
 
 ## Languages and Tools:
 <br />
@@ -8,9 +8,14 @@
   </a>
 </p>
 
-</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmKam" alt="MalcolmKam" /></p>
+Connect with me on LinkedIn!
+<p align="left">
+<a href="https://linkedin.com/in/michael-o-brien-63153129a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mob61887" height="30" width="40" /></a>
+</p>
 
 <!--
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcolmKam" alt="MalcolmKam" /></p>
+
 **MalcolmKam/MalcolmKam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
