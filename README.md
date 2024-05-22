@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Malcolm. I'm a Full Stack Engineer who loves to tackle new challenges!
 
-## Languages and Tools:
+<h3> Languages and Tools: </h3>
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
